@@ -1,10 +1,13 @@
-# learning_flutter_with_codelabs
+# Learning Flutter with Codelabs
 
-A new Flutter project.
+This project will follow up [codelabs](https://codelabs.developers.google.com/?product=flutter) that Google offers.
 
-## Getting Started
+## First codelab: Your first Flutter app
 
-This project is a starting point for a Flutter application.
+- [Codelab link](https://codelabs.developers.google.com/codelabs/flutter-codelab-first)
+- [Youtube link](https://www.youtube.com/watch?v=8sAyPDLorek)
+
+## Footnote
 
 A few resources to get you started if this is your first Flutter project:
 
